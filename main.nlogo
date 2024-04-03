@@ -352,10 +352,10 @@ NIL
 1
 
 SLIDER
-807
-150
-979
-183
+789
+337
+961
+370
 beesInitPopulation
 beesInitPopulation
 0
@@ -439,10 +439,10 @@ ticks
 HORIZONTAL
 
 SLIDER
-809
-232
-981
-265
+967
+336
+1139
+369
 beeNectarCapacity
 beeNectarCapacity
 1
@@ -471,10 +471,10 @@ NIL
 1
 
 SLIDER
-798
-272
-993
-305
+966
+376
+1161
+409
 chancePollenToDisappear
 chancePollenToDisappear
 0
@@ -613,20 +613,20 @@ NIL
 1
 
 TEXTBOX
-817
-134
-967
-152
+775
+317
+925
+335
               Bee Settings
 11
 0.0
 1
 
 SLIDER
-808
-191
-980
-224
+789
+376
+961
+409
 beeSpeed
 beeSpeed
 0.1
@@ -647,6 +647,36 @@ seasonCycle
 0
 1
 -1000
+
+SLIDER
+842
+131
+1014
+164
+rainyEndOnTick
+rainyEndOnTick
+0
+364
+182.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+1039
+130
+1211
+163
+dryEndOnTick
+dryEndOnTick
+1
+364
+364.0
+1
+1
+NIL
+HORIZONTAL
 
 @#$#@#$#@
 ## WHAT IS IT?
